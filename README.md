@@ -17,7 +17,7 @@
 <a href="https://discord.com/users/816685775629320192" rel="nofollow"><img align="center"
         src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png"
         alt="Albatros" height="50" width="50" align="left"></a>
-<a href="[https://open.spotify.com/playlist/4CI736CK2941kjaY6rSe5L?si=52dd83892ef14f16](https://open.spotify.com/playlist/6Uz7X7AuhjQGSMX86xgUcN?si=e942ff77d4404151" rel="nofollow"><img
+<a href="[https://open.spotify.com/playlist/4yCcqTyz4WWhOyccKiaNsE?si=77313f519a784c3f"><img
         align="center" src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png"
         alt="Albatros" height="50" width="50" align="left"></a>
 <a href="https://www.twitch.tv/xalbaatrosx" rel="nofollow"><img align="center"
