@@ -50,5 +50,5 @@
 ---
 
 [![Typing
-SVG](https://readme-typing-svg.herokuapp.com/?lines=Burası+Albatros%27in+Profili+Hoşgeldin!!&center=true&color="aaaa")](https://github.com/SadeceAlbatros)
+SVG](https://readme-typing-svg.herokuapp.com/?lines=Bu+Yer+Albatros%27in+Profili+Hoşgeldin!!&center=true&color="aaaa")](https://github.com/SadeceAlbatros)
 <div align="center">
