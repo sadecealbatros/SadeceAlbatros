@@ -3,7 +3,7 @@
 <h1>Hi there, I'm Albatros. 💘 <a href="https://github.com/SadeceAlbatros/"> </a> <img
         src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"></h1>
 
-## Junior Web Developer
+## JavaScript Developer
 
 <img src="https://komarev.com/ghpvc/?username=Albatros&style=plastic" width="100" height="20" />
 
