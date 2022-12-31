@@ -20,8 +20,6 @@
 <a href="[https://open.spotify.com/playlist/4CI736CK2941kjaY6rSe5L?si=52dd83892ef14f16](https://open.spotify.com/playlist/6Uz7X7AuhjQGSMX86xgUcN?si=e942ff77d4404151" rel="nofollow"><img
         align="center" src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png"
         alt="Harlex" height="50" width="50" align="left"></a>
-        align="left"></a>
-        align="left"></a>
 <a href="https://www.twitch.tv/xalbaatrosx" rel="nofollow"><img align="center"
         src="https://www.freepnglogos.com/uploads/purple-twitch-logo-png-18.png" alt="Harlex" height="50" width="50"
         align="left"></a>
