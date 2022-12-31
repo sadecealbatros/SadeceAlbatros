@@ -33,22 +33,3 @@
 <br />
 <br />
 <br />
-
-<detalis>
-    <summary>⭐ Github Stats</summary>
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=Albatros&theme=radical" width=500>
-</detalis>
-
-
-<detalis>
-    <summary>💡 Most Used Languages</summary>
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albatros&layout=compact" width=500>
-</detalis>
-
----
-
-[![Typing
-SVG](https://readme-typing-svg.herokuapp.com/?lines=Burası+Albatrosun%27un+Profili+Hoşgeldin!!&center=true&color=%22aaaa%22)](https://github.com/SadeceAlbatros)
-<div align="center">
