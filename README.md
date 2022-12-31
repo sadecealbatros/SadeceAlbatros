@@ -13,15 +13,15 @@
         
 <a href="https://www.instagram.com/xalbaatrosx/" rel="nofollow"><img align="center"
         src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png"
-        alt="Harlex" height="50" width="50" align="left"></a>
+        alt="Albatros" height="50" width="50" align="left"></a>
 <a href="https://discord.com/users/816685775629320192" rel="nofollow"><img align="center"
         src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png"
-        alt="Harlex" height="50" width="50" align="left"></a>
+        alt="Albatros" height="50" width="50" align="left"></a>
 <a href="[https://open.spotify.com/playlist/4CI736CK2941kjaY6rSe5L?si=52dd83892ef14f16](https://open.spotify.com/playlist/6Uz7X7AuhjQGSMX86xgUcN?si=e942ff77d4404151" rel="nofollow"><img
         align="center" src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png"
-        alt="Harlex" height="50" width="50" align="left"></a>
+        alt="Albatros" height="50" width="50" align="left"></a>
 <a href="https://www.twitch.tv/xalbaatrosx" rel="nofollow"><img align="center"
-        src="https://www.freepnglogos.com/uploads/purple-twitch-logo-png-18.png" alt="Harlex" height="50" width="50"
+        src="https://www.freepnglogos.com/uploads/purple-twitch-logo-png-18.png" alt="Albatros" height="50" width="50"
         align="left"></a>
 
 ### Languages and Tools
@@ -50,5 +50,5 @@
 ---
 
 [![Typing
-SVG](https://readme-typing-svg.herokuapp.com/?lines=Burası+Harlex%27in+Profili+Hoşgeldin!!&center=true&color="aaaa")](https://github.com/SadeceAlbatros)
+SVG](https://readme-typing-svg.herokuapp.com/?lines=Burası+Albatros%27in+Profili+Hoşgeldin!!&center=true&color="aaaa")](https://github.com/SadeceAlbatros)
 <div align="center">
