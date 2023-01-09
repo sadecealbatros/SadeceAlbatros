@@ -10,8 +10,18 @@
 
 ### Reach out to me
 
-[discord]: https://discord.com/users/816685775629320192
-[medium]: https://medium.com/@sadecealbatros
+### ⚡ Contact
+
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/discord.svg" />][discord]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/medium.svg" />][medium]
+
+[instagram]: https://www.instagram.com/ealperzkn
+[gmail]: mailto:erkamalper@gmail.com
+[discord]: https://discord.com/users/783566602079567942
+[medium]: https://medium.com/@thearkxd
+<br />
 
         
 <a href="https://www.instagram.com/xalbaatrosx/" rel="nofollow"><img align="center"
