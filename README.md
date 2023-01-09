@@ -7,6 +7,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=Albatros&style=plastic" width="100" height="20" />
 
+## 🐉 Discord Account
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/816685775629320192?hideDiscrim=true)](https://discord.com/users/816685775629320192)
 
 ### Reach out to me
         
