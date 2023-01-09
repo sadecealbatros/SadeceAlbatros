@@ -10,6 +10,9 @@
 
 ### Reach out to me
 
+[discord]: https://discord.com/users/783566602079567942
+[medium]: https://medium.com/@thearkxd
+<br />
         
 <a href="https://www.instagram.com/xalbaatrosx/" rel="nofollow"><img align="center"
         src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png"
