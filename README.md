@@ -8,10 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=Albatros&style=plastic" width="100" height="20" />
 
 ### Reach out to me
-        
-<a href="https://www.instagram.com/xalbaatrosx/" rel="nofollow"><img align="center"
-        src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png"
-        alt="Albatros" height="50" width="50" align="left"></a>
+
 <a href="https://discord.com/users/816685775629320192" rel="nofollow"><img align="center"
         src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png"
         alt="Albatros" height="50" width="50" align="left"></a>
